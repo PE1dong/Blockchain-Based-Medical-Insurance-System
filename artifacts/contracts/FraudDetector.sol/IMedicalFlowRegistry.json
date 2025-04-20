@@ -1,0 +1,119 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IMedicalFlowRegistry",
+  "sourceName": "contracts/FraudDetector.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "recordId",
+          "type": "bytes32"
+        }
+      ],
+      "name": "records",
+      "outputs": [
+        {
+          "components": [
+            {
+              "internalType": "address",
+              "name": "patient",
+              "type": "address"
+            },
+            {
+              "internalType": "string",
+              "name": "province",
+              "type": "string"
+            },
+            {
+              "internalType": "string",
+              "name": "hospital",
+              "type": "string"
+            },
+            {
+              "components": [
+                {
+                  "internalType": "string",
+                  "name": "illness",
+                  "type": "string"
+                },
+                {
+                  "internalType": "string",
+                  "name": "doctorName",
+                  "type": "string"
+                },
+                {
+                  "internalType": "string[]",
+                  "name": "medicines",
+                  "type": "string[]"
+                },
+                {
+                  "internalType": "uint256[]",
+                  "name": "medicineAmounts",
+                  "type": "uint256[]"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "treatmentDays",
+                  "type": "uint256"
+                },
+                {
+                  "internalType": "bytes32",
+                  "name": "prescriptionHash",
+                  "type": "bytes32"
+                },
+                {
+                  "internalType": "bytes",
+                  "name": "hospitalSignature",
+                  "type": "bytes"
+                }
+              ],
+              "internalType": "struct IMedicalFlowRegistry.HospitalData",
+              "name": "hospitalData",
+              "type": "tuple"
+            },
+            {
+              "internalType": "bool",
+              "name": "pharmacyConfirmed",
+              "type": "bool"
+            },
+            {
+              "internalType": "string",
+              "name": "pharmacyName",
+              "type": "string"
+            },
+            {
+              "internalType": "string",
+              "name": "pharmacyOperator",
+              "type": "string"
+            },
+            {
+              "internalType": "uint256",
+              "name": "pharmacyConfirmTime",
+              "type": "uint256"
+            },
+            {
+              "internalType": "bool",
+              "name": "approved",
+              "type": "bool"
+            },
+            {
+              "internalType": "enum IMedicalFlowRegistry.Status",
+              "name": "status",
+              "type": "uint8"
+            }
+          ],
+          "internalType": "struct IMedicalFlowRegistry.Record",
+          "name": "",
+          "type": "tuple"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
