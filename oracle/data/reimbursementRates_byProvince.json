@@ -1,0 +1,112 @@
+{
+  "Beijing": {
+    "Amoxicillin": 80,
+    "Ibuprofen": 50,
+    "Paracetamol": 10,
+    "Metformin": 40,
+    "Atorvastatin": 60,
+    "Gabapentin": 20,
+    "Risperidone": 80,
+    "Lithium": 30,
+    "Valproate": 70
+  },
+  "Shanghai": {
+    "Amoxicillin": 40,
+    "Ibuprofen": 80,
+    "Paracetamol": 20,
+    "Metformin": 80,
+    "Atorvastatin": 60,
+    "Gabapentin": 60,
+    "Risperidone": 30,
+    "Lithium": 50,
+    "Valproate": 60
+  },
+  "Guangdong": {
+    "Amoxicillin": 50,
+    "Ibuprofen": 80,
+    "Paracetamol": 60,
+    "Metformin": 30,
+    "Atorvastatin": 50,
+    "Gabapentin": 70,
+    "Risperidone": 60,
+    "Lithium": 50,
+    "Valproate": 60
+  },
+  "Zhejiang": {
+    "Amoxicillin": 20,
+    "Ibuprofen": 70,
+    "Paracetamol": 40,
+    "Metformin": 70,
+    "Atorvastatin": 40,
+    "Gabapentin": 30,
+    "Risperidone": 40,
+    "Lithium": 80,
+    "Valproate": 20
+  },
+  "Sichuan": {
+    "Amoxicillin": 30,
+    "Ibuprofen": 10,
+    "Paracetamol": 70,
+    "Metformin": 80,
+    "Atorvastatin": 80,
+    "Gabapentin": 30,
+    "Risperidone": 80,
+    "Lithium": 30,
+    "Valproate": 30
+  },
+  "Jiangsu": {
+    "Amoxicillin": 10,
+    "Ibuprofen": 50,
+    "Paracetamol": 80,
+    "Metformin": 40,
+    "Atorvastatin": 30,
+    "Gabapentin": 40,
+    "Risperidone": 30,
+    "Lithium": 40,
+    "Valproate": 70
+  },
+  "Hunan": {
+    "Amoxicillin": 20,
+    "Ibuprofen": 80,
+    "Paracetamol": 60,
+    "Metformin": 60,
+    "Atorvastatin": 40,
+    "Gabapentin": 20,
+    "Risperidone": 40,
+    "Lithium": 40,
+    "Valproate": 80
+  },
+  "Hubei": {
+    "Amoxicillin": 40,
+    "Ibuprofen": 20,
+    "Paracetamol": 10,
+    "Metformin": 50,
+    "Atorvastatin": 50,
+    "Gabapentin": 20,
+    "Risperidone": 50,
+    "Lithium": 20,
+    "Valproate": 80
+  },
+  "Shandong": {
+    "Amoxicillin": 60,
+    "Ibuprofen": 30,
+    "Paracetamol": 60,
+    "Metformin": 50,
+    "Atorvastatin": 70,
+    "Gabapentin": 10,
+    "Risperidone": 10,
+    "Lithium": 60,
+    "Valproate": 10
+  },
+  "Henan": {
+    "Amoxicillin": 10,
+    "Ibuprofen": 50,
+    "Paracetamol": 30,
+    "Metformin": 60,
+    "Atorvastatin": 80,
+    "Gabapentin": 30,
+    "Risperidone": 70,
+    "Lithium": 50,
+    "Valproate": 40
+  }
+}

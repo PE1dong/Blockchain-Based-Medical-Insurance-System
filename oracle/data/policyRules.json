@@ -1,0 +1,272 @@
+{
+    "Beijing-Tier2": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 5
+    },
+    "Shanghai-Tier2": {
+        "covered": true,
+        "reimbursementRate": 75,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 4
+    },
+    "Guangzhou-Tier2": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Shenzhen-Tier2": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Hangzhou-Tier2": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Chengdu-Tier2": {
+        "covered": true,
+        "reimbursementRate": 75,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 4
+    },
+    "Nanjing-Tier2": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Xi'an-Tier2": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Wuhan-Tier2": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 5
+    },
+    "Chongqing-Tier2": {
+        "covered": true,
+        "reimbursementRate": 75,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 4
+    },
+    "Tianjin-Tier2": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Suzhou-Tier2": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Shijiazhuang-Tier2": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 5
+    },
+    "Dalian-Tier2": {
+        "covered": true,
+        "reimbursementRate": 75,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 4
+    },
+    "Ningbo-Tier2": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Beijing-Tier1": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 4
+    },
+    "Beijing-Tier3": {
+        "covered": true,
+        "reimbursementRate": 90,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 7
+    },
+    "Shanghai-Tier1": {
+        "covered": true,
+        "reimbursementRate": 65,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 3
+    },
+    "Shanghai-Tier3": {
+        "covered": true,
+        "reimbursementRate": 85,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Guangzhou-Tier1": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Guangzhou-Tier3": {
+        "covered": false,
+        "reimbursementRate": 10,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 2
+    },
+    "Shenzhen-Tier1": {
+        "covered": true,
+        "reimbursementRate": 60,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 5
+    },
+    "Shenzhen-Tier3": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 8
+    },
+    "Hangzhou-Tier1": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Hangzhou-Tier3": {
+        "covered": false,
+        "reimbursementRate": 10,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 2
+    },
+    "Chengdu-Tier1": {
+        "covered": true,
+        "reimbursementRate": 65,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 3
+    },
+    "Chengdu-Tier3": {
+        "covered": true,
+        "reimbursementRate": 85,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Nanjing-Tier1": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Nanjing-Tier3": {
+        "covered": false,
+        "reimbursementRate": 10,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 2
+    },
+    "Xi'an-Tier1": {
+        "covered": true,
+        "reimbursementRate": 60,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 5
+    },
+    "Xi'an-Tier3": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 8
+    },
+    "Wuhan-Tier1": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 4
+    },
+    "Wuhan-Tier3": {
+        "covered": true,
+        "reimbursementRate": 90,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 7
+    },
+    "Chongqing-Tier1": {
+        "covered": true,
+        "reimbursementRate": 65,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 3
+    },
+    "Chongqing-Tier3": {
+        "covered": true,
+        "reimbursementRate": 85,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Tianjin-Tier1": {
+        "covered": false,
+        "reimbursementRate": 0,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 0
+    },
+    "Tianjin-Tier3": {
+        "covered": false,
+        "reimbursementRate": 10,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 2
+    },
+    "Suzhou-Tier1": {
+        "covered": true,
+        "reimbursementRate": 60,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 5
+    },
+    "Suzhou-Tier3": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 8
+    },
+    "Shijiazhuang-Tier1": {
+        "covered": true,
+        "reimbursementRate": 70,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 4
+    },
+    "Shijiazhuang-Tier3": {
+        "covered": true,
+        "reimbursementRate": 90,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 7
+    },
+    "Dalian-Tier1": {
+        "covered": true,
+        "reimbursementRate": 65,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 3
+    },
+    "Dalian-Tier3": {
+        "covered": true,
+        "reimbursementRate": 85,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 6
+    },
+    "Ningbo-Tier1": {
+        "covered": true,
+        "reimbursementRate": 60,
+        "preAuthRequired": false,
+        "consultationRatePerMinute": 5
+    },
+    "Ningbo-Tier3": {
+        "covered": true,
+        "reimbursementRate": 80,
+        "preAuthRequired": true,
+        "consultationRatePerMinute": 8
+    }
+}
